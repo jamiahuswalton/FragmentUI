@@ -11,6 +11,11 @@
     tools:context="lywalton_portfolio.httpbit.fragmentui.MainActivity">
 
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        android:id="@+id/button_switchFragements" />
 
     <ImageView
         android:layout_width="match_parent"
